@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on AngularJS
-- 🌱 currently learning ReactJS, Redux and Deeplearning
-- 🔨 will be getting into NodeJS, ExpressJS, Web3
+- 🌱 currently learning GenAI & Deeplearning
 - 👨‍🎓 Post grad. Computer Science
 - 📚 Interests: Operating Systems, Computer Architecture & Data Science
 - 📫 reach me on: [twitter 🐣](https://twitter.com/prakh_r) | [linkedIn 👔](https://www.linkedin.com/in/prakhar-yadav-856772b6/)
 - ✍️ I pen here: [Code With P](https://prakhar.hashnode.dev/)
+<!-- 🔨 will be getting into NodeJS, ExpressJS, Web3-->
 
 <!--
 **pkrc267/pkrc267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
